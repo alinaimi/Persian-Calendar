@@ -1,0 +1,13 @@
+	ContentGetValueW=ContentGetValue
+	ContentSetDefaultParams
+	ContentStopGetValueW=ContentStopGetValue
+	ContentGetSupportedFieldFlags
+	ContentGetDefaultSortOrder
+	ContentSetValueW=ContentSetValue
+	ContentCompareFilesW=ContentCompareFiles
+
+	ContentGetSupportedFieldFlags
+
+	ContentGetDefaultSortOrder
+	ContentSetValue
+	ContentCompareFiles
