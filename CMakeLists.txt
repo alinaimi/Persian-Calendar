@@ -87,32 +87,6 @@ set_property(GLOBAL PROPERTY USE_FOLDERS ON)
 # Sub-projects
 ################################################################################
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 set(PROJECT_NAME Taghveem)
 
 ################################################################################
@@ -404,4 +378,3 @@ elseif("${CMAKE_VS_PLATFORM_NAME}" STREQUAL "x64")
     )
 endif()
 target_link_libraries(${PROJECT_NAME} PUBLIC "${ADDITIONAL_LIBRARY_DEPENDENCIES}")
-
